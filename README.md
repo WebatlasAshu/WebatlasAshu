@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./ayush-banner.svg">
   <source media="(prefers-color-scheme: light)" srcset="./ayush-banner-light.svg">
-  <img src="./ayush-banner.svg" alt="Ayush Sen — Full-Stack Engineer" width="100%"/>
+  <img src="./ayush-banner.svg" alt="Ayush Sen, Full-Stack Engineer" width="100%"/>
 </picture>
 
 <br/>
@@ -50,58 +50,25 @@
 
 ### 🛠 Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=light" alt="Frontend stack"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=dark" alt="Frontend stack"/>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=light" alt="Backend & database stack"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=dark" alt="Backend & database stack"/>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vscode,postman,figma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vscode,postman,figma&theme=light" alt="Cloud, DevOps & tools"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vscode,postman,figma&theme=dark" alt="Cloud, DevOps & tools"/>
 
 <br/><br/>
 
 ### 📊 GitHub Stats & Graphs
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WebatlasAshu&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3BB&text_color=C9D1D9&border_color=30363D">
-  <img src="https://github-readme-stats.vercel.app/api?username=WebatlasAshu&show_icons=true&hide_border=false&count_private=true&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=24292F&border_color=D0D7DE" alt="GitHub Stats" height="185"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WebatlasAshu&layout=compact&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebatlasAshu&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=2563EB&text_color=24292F&border_color=D0D7DE" alt="Top Languages" height="185"/>
-</picture>
+<img src="https://streak-stats.demolab.com?user=WebatlasAshu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WebatlasAshu&hide_border=false&background=0D1117&stroke=30363D&ring=58A6FF&fire=39D3BB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
-  <img src="https://streak-stats.demolab.com?user=WebatlasAshu&hide_border=false&background=FFFFFF&stroke=D0D7DE&ring=2563EB&fire=0D9488&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2563EB&sideLabels=57606A&dates=57606A" alt="GitHub Streak"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WebatlasAshu&bg_color=0D1117&color=58A6FF&line=A371F7&point=39D3BB&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebatlasAshu&bg_color=FFFFFF&color=2563EB&line=7C3AED&point=0D9488&area=true&area_color=2563EB&hide_border=false&custom_title=Contribution%20Activity" alt="Contribution graph" width="95%"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=WebatlasAshu&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=WebatlasAshu&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" width="95%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WebatlasAshu&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
@@ -129,6 +96,6 @@
 
 <br/><br/>
 
-*"Building software isn't just about writing code — it's about creating solutions that people trust and businesses rely on."*
+*"Building software isn't just about writing code. It's about creating solutions that people trust and businesses rely on."*
 
 </div>
