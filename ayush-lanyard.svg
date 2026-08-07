@@ -50,12 +50,12 @@
 
       <line x1="70" y1="326" x2="270" y2="326" stroke="#30363d" stroke-width="1"/>
 
-      <rect x="68" y="336" width="60" height="22" rx="11" fill="#1f6feb" opacity="0.15" stroke="#58a6ff" stroke-width="1"/>
-      <text x="98" y="351" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="10" fill="#58a6ff">REACT</text>
-      <rect x="140" y="336" width="60" height="22" rx="11" fill="#8957e5" opacity="0.15" stroke="#a371f7" stroke-width="1"/>
-      <text x="170" y="351" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="10" fill="#a371f7">NODE</text>
-      <rect x="212" y="336" width="58" height="22" rx="11" fill="#0d9488" opacity="0.15" stroke="#39d3bb" stroke-width="1"/>
-      <text x="241" y="351" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="10" fill="#39d3bb">AWS</text>
+      <rect x="62" y="336" width="72" height="22" rx="11" fill="#1f6feb" opacity="0.15" stroke="#58a6ff" stroke-width="1"/>
+      <text x="98" y="351" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="10" fill="#58a6ff">PYTHON</text>
+      <rect x="138" y="336" width="76" height="22" rx="11" fill="#0d9488" opacity="0.15" stroke="#39d3bb" stroke-width="1"/>
+      <text x="176" y="351" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="10" fill="#39d3bb">FASTAPI</text>
+      <rect x="218" y="336" width="52" height="22" rx="11" fill="#8957e5" opacity="0.15" stroke="#a371f7" stroke-width="1"/>
+      <text x="244" y="351" text-anchor="middle" font-family="'Fira Code', ui-monospace, monospace" font-size="10" fill="#a371f7">AWS</text>
 
       <g fill="#57606a">
         <rect x="68" y="382" width="2" height="20"/><rect x="72" y="382" width="4" height="20"/><rect x="78" y="382" width="2" height="20"/>
