@@ -46,13 +46,13 @@
     <clipPath id="codeClipDark"><rect x="40" y="50" width="520" height="240" rx="14"/></clipPath>
     <clipPath id="avatarClipDark"><circle cx="1105" cy="105" r="72"/></clipPath>
 
-    <clipPath id="l1"><rect x="64" y="86" width="0" height="26"><animate attributeName="width" from="0" to="90" dur=".35s" begin=".3s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l2"><rect x="64" y="111" width="0" height="26"><animate attributeName="width" from="0" to="185" dur=".35s" begin=".65s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l3"><rect x="64" y="136" width="0" height="26"><animate attributeName="width" from="0" to="203" dur=".35s" begin="1s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l4"><rect x="64" y="161" width="0" height="26"><animate attributeName="width" from="0" to="295" dur=".35s" begin="1.35s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l5"><rect x="64" y="186" width="0" height="26"><animate attributeName="width" from="0" to="315" dur=".35s" begin="1.7s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l6"><rect x="64" y="211" width="0" height="26"><animate attributeName="width" from="0" to="165" dur=".35s" begin="2.05s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l7"><rect x="64" y="236" width="0" height="26"><animate attributeName="width" from="0" to="30" dur=".35s" begin="2.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l1"><rect x="64" y="86" width="0" height="26"><animate attributeName="width" from="0" to="85" dur=".35s" begin=".3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="64" y="111" width="0" height="26"><animate attributeName="width" from="0" to="150" dur=".35s" begin=".65s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="64" y="136" width="0" height="26"><animate attributeName="width" from="0" to="225" dur=".35s" begin="1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="64" y="161" width="0" height="26"><animate attributeName="width" from="0" to="290" dur=".35s" begin="1.35s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="64" y="186" width="0" height="26"><animate attributeName="width" from="0" to="380" dur=".35s" begin="1.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l6"><rect x="64" y="211" width="0" height="26"><animate attributeName="width" from="0" to="195" dur=".35s" begin="2.05s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l7"><rect x="64" y="236" width="0" height="26"><animate attributeName="width" from="0" to="35" dur=".35s" begin="2.4s" fill="freeze"/></rect></clipPath>
   </defs>
 
   <g clip-path="url(#clipDark)">
@@ -94,17 +94,17 @@
       <circle cx="64" cy="67" r="6" fill="#ff5f56"/>
       <circle cx="84" cy="67" r="6" fill="#ffbd2e"/>
       <circle cx="104" cy="67" r="6" fill="#27c93f"/>
-      <text x="130" y="71" font-size="12" fill="#8b949e">engineer.ts</text>
+      <text x="130" y="71" font-size="12" fill="#8b949e">engineer.py</text>
       <line x1="40" y1="84" x2="560" y2="84" stroke="#30363d" stroke-width="1"/>
 
-      <g clip-path="url(#l1)"><text x="64" y="104" font-size="15" fill="#6e7891">// dev.ts</text></g>
-      <g clip-path="url(#l2)"><text x="64" y="129" font-size="15"><tspan fill="#ff7b72">const</tspan><tspan fill="#c9d1d9"> engineer = {</tspan></text></g>
-      <g clip-path="url(#l3)"><text x="64" y="154" font-size="15"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">name</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Ayush Sen"</tspan><tspan fill="#c9d1d9">,</tspan></text></g>
-      <g clip-path="url(#l4)"><text x="64" y="179" font-size="15"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Full-Stack Engineer"</tspan><tspan fill="#c9d1d9">,</tspan></text></g>
-      <g clip-path="url(#l5)"><text x="64" y="204" font-size="15"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"React"</tspan><tspan fill="#c9d1d9">,</tspan><tspan fill="#a5d6ff">"Node"</tspan><tspan fill="#c9d1d9">,</tspan><tspan fill="#a5d6ff">"AWS"</tspan><tspan fill="#c9d1d9">],</tspan></text></g>
-      <g clip-path="url(#l6)"><text x="64" y="229" font-size="15"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">shipping</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#d2a8ff">true</tspan></text></g>
-      <g clip-path="url(#l7)"><text x="64" y="254" font-size="15" fill="#c9d1d9">};</text></g>
-      <rect x="98" y="241" width="8" height="15" fill="#39d3bb" class="cur" style="animation-delay:2.75s"/>
+      <g clip-path="url(#l1)"><text x="64" y="104" font-size="15" fill="#6e7891"># dev.py</text></g>
+      <g clip-path="url(#l2)"><text x="64" y="129" font-size="15"><tspan fill="#ff7b72">class</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#d2a8ff">Engineer</tspan><tspan fill="#c9d1d9">:</tspan></text></g>
+      <g clip-path="url(#l3)"><text x="64" y="154" font-size="15"><tspan fill="#c9d1d9">    </tspan><tspan fill="#79c0ff">name</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Ayush Sen"</tspan></text></g>
+      <g clip-path="url(#l4)"><text x="64" y="179" font-size="15"><tspan fill="#c9d1d9">    </tspan><tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Backend Engineer"</tspan></text></g>
+      <g clip-path="url(#l5)"><text x="64" y="204" font-size="15"><tspan fill="#c9d1d9">    </tspan><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9"> = [</tspan><tspan fill="#a5d6ff">"Python"</tspan><tspan fill="#c9d1d9">,</tspan><tspan fill="#a5d6ff">"FastAPI"</tspan><tspan fill="#c9d1d9">,</tspan><tspan fill="#a5d6ff">"AWS"</tspan><tspan fill="#c9d1d9">]</tspan></text></g>
+      <g clip-path="url(#l6)"><text x="64" y="229" font-size="15"><tspan fill="#c9d1d9">    </tspan><tspan fill="#79c0ff">shipping</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#d2a8ff">True</tspan></text></g>
+      <g clip-path="url(#l7)"><text x="64" y="254" font-size="15" fill="#39d3bb">&gt;&gt;&gt;</text></g>
+      <rect x="105" y="241" width="8" height="15" fill="#39d3bb" class="cur" style="animation-delay:2.75s"/>
     </g>
     <rect x="40" y="50" width="520" height="240" rx="14" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
@@ -130,24 +130,24 @@
 
     <g class="sans">
       <g class="fadein" style="animation-delay:.9s"><g class="fl" style="animation-delay:0s">
-        <rect x="620" y="224" width="72" height="30" rx="15" fill="#1f6feb" opacity="0.15" stroke="#58a6ff" stroke-width="1"/>
-        <text x="656" y="244" text-anchor="middle" font-size="12" fill="#58a6ff">React</text>
+        <rect x="620" y="224" width="86" height="30" rx="15" fill="#1f6feb" opacity="0.15" stroke="#58a6ff" stroke-width="1"/>
+        <text x="663" y="244" text-anchor="middle" font-size="12" fill="#58a6ff">Python</text>
       </g></g>
       <g class="fadein" style="animation-delay:1.05s"><g class="fl" style="animation-delay:.3s">
-        <rect x="704" y="224" width="86" height="30" rx="15" fill="#8957e5" opacity="0.15" stroke="#a371f7" stroke-width="1"/>
-        <text x="747" y="244" text-anchor="middle" font-size="12" fill="#a371f7">Node.js</text>
+        <rect x="718" y="224" width="96" height="30" rx="15" fill="#0d9488" opacity="0.15" stroke="#39d3bb" stroke-width="1"/>
+        <text x="766" y="244" text-anchor="middle" font-size="12" fill="#39d3bb">FastAPI</text>
       </g></g>
       <g class="fadein" style="animation-delay:1.2s"><g class="fl" style="animation-delay:.6s">
-        <rect x="802" y="224" width="112" height="30" rx="15" fill="#0d9488" opacity="0.15" stroke="#39d3bb" stroke-width="1"/>
-        <text x="858" y="244" text-anchor="middle" font-size="12" fill="#39d3bb">TypeScript</text>
+        <rect x="826" y="224" width="72" height="30" rx="15" fill="#8957e5" opacity="0.15" stroke="#a371f7" stroke-width="1"/>
+        <text x="862" y="244" text-anchor="middle" font-size="12" fill="#a371f7">React</text>
       </g></g>
       <g class="fadein" style="animation-delay:1.35s"><g class="fl" style="animation-delay:.9s">
-        <rect x="926" y="224" width="64" height="30" rx="15" fill="#1f6feb" opacity="0.15" stroke="#58a6ff" stroke-width="1"/>
-        <text x="958" y="244" text-anchor="middle" font-size="12" fill="#58a6ff">AWS</text>
+        <rect x="910" y="224" width="64" height="30" rx="15" fill="#1f6feb" opacity="0.15" stroke="#58a6ff" stroke-width="1"/>
+        <text x="942" y="244" text-anchor="middle" font-size="12" fill="#58a6ff">AWS</text>
       </g></g>
       <g class="fadein" style="animation-delay:1.5s"><g class="fl" style="animation-delay:1.2s">
-        <rect x="1002" y="224" width="82" height="30" rx="15" fill="#8957e5" opacity="0.15" stroke="#a371f7" stroke-width="1"/>
-        <text x="1043" y="244" text-anchor="middle" font-size="12" fill="#a371f7">Docker</text>
+        <rect x="986" y="224" width="82" height="30" rx="15" fill="#0d9488" opacity="0.15" stroke="#39d3bb" stroke-width="1"/>
+        <text x="1027" y="244" text-anchor="middle" font-size="12" fill="#39d3bb">Docker</text>
       </g></g>
     </g>
 

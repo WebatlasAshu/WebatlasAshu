@@ -9,8 +9,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+SaaS+%26+AI-powered+products;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+AWS;Turning+ideas+into+production-ready+software">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+SaaS+%26+AI-powered+products;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+AWS;Turning+ideas+into+production-ready+software" alt="Typing SVG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+APIs+%26+AI-powered+products;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Node.js+%C2%B7+AWS;Turning+ideas+into+production-ready+software">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+APIs+%26+AI-powered+products;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Node.js+%C2%B7+AWS;Turning+ideas+into+production-ready+software" alt="Typing SVG"/>
 </picture>
 
 </div>
@@ -30,10 +30,10 @@
 
 | Focus Area | Stack |
 |:---|:---|
-| Scalable SaaS Platforms | `React` `Next.js` `NestJS` |
+| Backend Services & APIs | `Python` `FastAPI` `PostgreSQL` |
+| Scalable SaaS Platforms | `FastAPI` `React` `Next.js` |
 | Business & Enterprise Apps | `Node.js` `Laravel` `PostgreSQL` |
-| REST & GraphQL APIs | `Express` `NestJS` `MongoDB` |
-| AI-Powered Integrations | `Node.js` `REST APIs` |
+| AI-Powered Integrations | `Python` `FastAPI` `REST APIs` |
 | Cloud-Native Deployments | `AWS` `Docker` `GitHub Actions` |
 
 <br/>
@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=dark" alt="Backend & database stack"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=dark" alt="Backend & database stack"/>
 
 <br/>
 
