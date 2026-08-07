@@ -1,123 +1,134 @@
-```markdown
-# Hi 👋 I'm Ayush Sen
+<div align="center">
 
-## Full-Stack Engineer at WebAtlas Technologies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ayush-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./ayush-banner-light.svg">
+  <img src="./ayush-banner.svg" alt="Ayush Sen — Full-Stack Engineer" width="100%"/>
+</picture>
 
-I build modern software that helps businesses launch faster, scale confidently, and solve real-world challenges through technology.
+<br/>
 
-At **WebAtlas Technologies**, I work across the complete product lifecycle—transforming ideas into production-ready applications by combining intuitive user experiences, scalable backend architecture, and cloud-native engineering. Whether it's developing SaaS platforms, business applications, or AI-enabled solutions, I enjoy creating software that is reliable, maintainable, and designed for long-term success.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+SaaS+%26+AI-powered+products;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+AWS;Turning+ideas+into+production-ready+software">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+SaaS+%26+AI-powered+products;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+AWS;Turning+ideas+into+production-ready+software" alt="Typing SVG"/>
+</picture>
 
-I believe great engineering isn't measured by the amount of code written, but by the impact the product creates for the people who use it.
+</div>
 
----
+<br/>
 
-# 🚀 What I Build
+<table align="center" border="0">
+<tr>
+<td width="36%" align="center" valign="middle">
 
-I contribute to a wide range of digital products, including:
+<img src="./ayush-lanyard.svg" alt="Ayush Sen ID badge" width="290"/>
 
-- Scalable SaaS Platforms
-- Custom Business Applications
-- Enterprise Web Solutions
-- REST & GraphQL APIs
-- AI-Powered Features & Integrations
-- Business Process Automation
-- Cloud-Based Applications
-- Internal Management Systems
+</td>
+<td width="64%" valign="middle">
 
----
+### 🧩 What I Build
 
-# 💡 Engineering Focus
+| Focus Area | Stack |
+|:---|:---|
+| Scalable SaaS Platforms | `React` `Next.js` `NestJS` |
+| Business & Enterprise Apps | `Node.js` `Laravel` `PostgreSQL` |
+| REST & GraphQL APIs | `Express` `NestJS` `MongoDB` |
+| AI-Powered Integrations | `Node.js` `REST APIs` |
+| Cloud-Native Deployments | `AWS` `Docker` `GitHub Actions` |
 
-My day-to-day work revolves around building software that is efficient, secure, and ready to scale.
+<br/>
 
-Current areas of focus include:
+> 💡 *"Great engineering isn't measured by the amount of code written, but by the impact the product creates for the people who use it."*
 
-- Designing scalable application architecture
-- Developing clean and reusable codebases
-- Optimizing application performance
-- Building secure backend services
-- Integrating modern AI capabilities
-- Improving development workflows
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-# 🛠 Technology Stack
+<div align="center">
 
-## Frontend
+### 🛠 Tech Stack
 
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=light" alt="Frontend stack"/>
+</picture>
 
-## Backend
+<br/>
 
-- Node.js
-- Express.js
-- NestJS
-- Laravel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,postgres,mysql,mongodb,redis&theme=light" alt="Backend & database stack"/>
+</picture>
 
-## Databases
+<br/>
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vscode,postman,figma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vscode,postman,figma&theme=light" alt="Cloud, DevOps & tools"/>
+</picture>
 
-## Cloud & DevOps
+<br/><br/>
 
-- AWS
-- Docker
-- GitHub Actions
+### 📊 GitHub Stats & Graphs
 
-## Development Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WebatlasAshu&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3BB&text_color=C9D1D9&border_color=30363D">
+  <img src="https://github-readme-stats.vercel.app/api?username=WebatlasAshu&show_icons=true&hide_border=false&count_private=true&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=24292F&border_color=D0D7DE" alt="GitHub Stats" height="185"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WebatlasAshu&layout=compact&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebatlasAshu&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=2563EB&text_color=24292F&border_color=D0D7DE" alt="Top Languages" height="185"/>
+</picture>
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WebatlasAshu&hide_border=false&background=0D1117&stroke=30363D&ring=58A6FF&fire=39D3BB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
+  <img src="https://streak-stats.demolab.com?user=WebatlasAshu&hide_border=false&background=FFFFFF&stroke=D0D7DE&ring=2563EB&fire=0D9488&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2563EB&sideLabels=57606A&dates=57606A" alt="GitHub Streak"/>
+</picture>
 
-# 🌱 Continuous Learning
+<br/><br/>
 
-Technology never stands still, and neither do I.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WebatlasAshu&bg_color=0D1117&color=58A6FF&line=A371F7&point=39D3BB&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebatlasAshu&bg_color=FFFFFF&color=2563EB&line=7C3AED&point=0D9488&area=true&area_color=2563EB&hide_border=false&custom_title=Contribution%20Activity" alt="Contribution graph" width="95%"/>
+</picture>
 
-I'm constantly exploring new approaches to software engineering while expanding my knowledge in:
+<br/><br/>
 
-- Artificial Intelligence
-- Cloud-Native Development
-- Software Architecture
-- System Design
-- DevOps Practices
-- Performance Engineering
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=WebatlasAshu&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=WebatlasAshu&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" width="95%"/>
+</picture>
 
----
+<br/><br/>
 
-# 🤝 Working Style
+### 🐍 Contribution Snake
 
-I enjoy collaborating with designers, developers, and product teams to build software that is practical, scalable, and user-focused.
+<!-- Populates after the "Generate Snake" workflow runs once (Actions tab -> Generate Snake -> Run workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WebatlasAshu/WebatlasAshu/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/WebatlasAshu/WebatlasAshu/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</picture>
 
-I value clean communication, continuous learning, thoughtful problem-solving, and delivering solutions that make a measurable difference for businesses.
+<br/><br/>
 
----
+### 📫 Connect
 
-# 🌐 Connect
+<a href="https://webatlastech.com"><img src="https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+<a href="mailto:ayush.sen@webatlas.tech"><img src="https://img.shields.io/badge/Email-39D3BB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/WebatlasAshu"><img src="https://img.shields.io/badge/GitHub-A371F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/company/webatlas-technologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Webatlastech"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-🌍 Website: https://webatlastech.com
+<br/><br/>
 
-💼 LinkedIn: https://linkedin.com/company/webatlas-technologies
+<img src="https://komarev.com/ghpvc/?username=WebatlasAshu&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views"/>
 
-🐦 X: https://x.com/Webatlastech
+<br/><br/>
 
-📧 Email: info@webatlastech.com
+*"Building software isn't just about writing code — it's about creating solutions that people trust and businesses rely on."*
 
-
----
-
-> **"Building software isn't just about writing code—it's about creating solutions that people trust and businesses rely on."**
-```
+</div>
